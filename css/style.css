@@ -223,7 +223,7 @@ body {
   grid-column: 2/3;
   width: 280px;
   height: 150px;
-  background-image: url("/images/contentRight.jpg");
+  background-image: url("/worldtest/images/contentRight.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -327,8 +327,7 @@ body {
 .buy__img {
   margin-bottom: 30px;
 }
-.buy_btn {
-}
+
 .buy .buy_btn {
   margin: 0 auto;
 }
@@ -348,8 +347,7 @@ body {
   grid-template-rows: 1fr 1fr;
   gap: 20px;
 }
-.equipment__box-item {
-}
+
 .equipment__box-item--one {
   grid-row: 1/-1;
 }
