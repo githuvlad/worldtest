@@ -223,7 +223,7 @@ body {
   grid-column: 2/3;
   width: 280px;
   height: 150px;
-  background-image: url("contentRight.jpg");
+  background-image: url("css/contentRight.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
