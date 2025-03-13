@@ -218,11 +218,12 @@ body {
   margin-bottom: 5px;
   font-size: 24px;
 }
+
 .video {
   grid-column: 2/3;
   width: 280px;
   height: 150px;
-  background-image: url("/images/contentRight.jpg");
+  background-image: url("/oculus09032025/images/contentRight.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
