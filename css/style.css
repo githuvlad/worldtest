@@ -368,7 +368,7 @@ body {
   margin-bottom: 100px;
 }
 .promo__inner {
-  background-image: url("/images/promo.jpg");
+  background-image: url("/worldtest/images/promo.jpg");
   min-height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
